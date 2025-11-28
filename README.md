@@ -61,3 +61,5 @@ Recommendations for improvement
 Conclusion
 
 This project helps track marketing efficiency, reduce unnecessary costs, and maximize conversions through actionable insights.
+
+![WhatsApp Image 2025-11-28 at 11 31 54_6f6ae460](https://github.com/user-attachments/assets/930dc42c-4a79-4b28-bd92-a71f336536a7)
